@@ -1,0 +1,2 @@
+# TRUSTED
+The trusted fund
